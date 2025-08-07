@@ -6,3 +6,8 @@ Experience the magic of AI-powered ASCII art! This web application, featuring a 
 1. Python Flask
 1. ReactJS
 1. NodeJS
+
+## Contributors
+1. Abhishek G 
+2. Prathmesh Kale 
+3. Srinivas M 
