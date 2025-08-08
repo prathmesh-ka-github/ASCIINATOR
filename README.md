@@ -17,3 +17,8 @@ Built with Flask + MongoDB
 - `python -m venv venv` - To create a virtual environment for the project
 - `pip install -r requirements.txt` - Installs all dependencies existing in the requirements file.
 - `flask run --debug` - Run the server in Debug or Dev mode.
+
+## Contributors
+1. Abhishek G 
+2. Prathmesh Kale 
+3. Srinivas M 
