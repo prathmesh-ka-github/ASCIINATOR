@@ -19,6 +19,6 @@ Built with Flask + MongoDB
 - `flask run --debug` - Run the server in Debug or Dev mode.
 
 ## Contributors
-1. Abhishek G 
-2. Prathmesh Kale 
+1. Prathmesh K 
 3. Srinivas M 
+1. Abhishek G 
