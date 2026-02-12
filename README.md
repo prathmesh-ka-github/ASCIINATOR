@@ -8,9 +8,7 @@ Experience the magic of AI-powered ASCII art! This web application, featuring a 
 
 ## TechStack used -
 
-<img width=80 src="assets/flask.png"/>
-<img width=80 src="assets/react.png"/>
-<img width=80 src="assets/node.png"/>
+<img width=80 src="assets/flask.png"/><img width=80 src="assets/react.png"/><img width=80 src="assets/node.png"/>
 
 1. Python Flask
 1. ReactJS
