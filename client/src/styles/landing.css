@@ -19,10 +19,10 @@ body {
 
 .shadow {
     background-color: black;
-    height: 1500px;
-    width: 1400px;
+    height: 700px;
+    width: 1000px;
     border-radius: 50%;
-    transform: translateY(400px);
+    transform: translateY(5%);
     filter: blur(100px);
 }
 
@@ -33,7 +33,10 @@ body {
     align-items: center;
 }
 .subheading {
-    font-size: 30px;
+    font-size: 18px;
+}
+.heading {
+    font-size: 90px
 }
 
 .landingpgbutton {
@@ -41,7 +44,7 @@ body {
     text-decoration: none;
     margin-top: 50px;
     font-size: 20px;
-    padding: 15px 60px;
+    padding: 10px 50px;
     border-radius: 5px;
     background-color: #D31314;
     transition: background-color 500ms;

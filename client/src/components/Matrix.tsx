@@ -18,7 +18,7 @@ const Matrix = () => {
     c.height = window.innerHeight;
 
     const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxy1234567890#@$%&*+=-_,.;:\\|?<>/{}[]()~';
-    const fontSize = 20;
+    const fontSize = 16;
     const columns = Math.floor(c.width / fontSize);
     const drops: number[] = new Array(columns).fill(1);
 
